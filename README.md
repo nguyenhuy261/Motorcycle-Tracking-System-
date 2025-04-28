@@ -1,2 +1,1 @@
-# Traffic-Light-Monitoring-System
-Developed a traffic light control system with data storage and management using C# on Visual Studio and SQL Server.
+Developed a real-time motorcycle tracking system using an ESP32 microcontroller, GPS Neo-6M, and MPU6050 accelerometer. The system collects location and motion data and transmits it via UDP and Bluetooth to a custom Android application. The mobile app displays real-time tracking on Google Maps and sends alerts in case of abnormal movements, such as a potential vehicle fall.
